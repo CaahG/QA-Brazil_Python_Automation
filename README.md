@@ -66,4 +66,4 @@ Em conjunto com o padrão **Page Object Model (POM)**, o projeto garante organiz
 
 ---
 
-🌐 **Conecte-se comigo:** Confira meus outros projetos aqui no GitHub e acompanhe para mais conteúdos sobre automação e QA! 🚀
+🌐 **Conecte-se comigo:** Confira meus outros projetos aqui no GitHub e acompanhe para mais conteúdos sobre automação e QA! 🚀.
